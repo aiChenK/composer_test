@@ -6,6 +6,6 @@ class Test
 {
     public static function hi()
     {
-        echo 'hi-version1';
+        echo 'hi-version2';
     }
 }
